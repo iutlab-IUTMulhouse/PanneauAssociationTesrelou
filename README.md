@@ -9,4 +9,4 @@ Les mesures sont faites pour des plaques de bois de 10 mm d'épaisseur.
 
 Le prototype a été fait sur une graveuse laser epilog Fusion Pro.
 
-Voici le rendu :
+Voici le rendu : ![rendu](PhotoEnsemble.jpg)
